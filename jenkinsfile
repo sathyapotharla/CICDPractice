@@ -2,7 +2,8 @@
 
 stage('Demo') {
     echo 'Hello world'
-    sayHello 'Dave'
+    sayHello 'Sathya Potharla'
+    echo 'success'
 }
 
 
